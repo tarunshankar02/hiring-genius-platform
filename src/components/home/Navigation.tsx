@@ -30,6 +30,11 @@ const Navigation = () => {
                 Job Search
               </Button>
             </Link>
+            <Link to="/recruiter/onboarding">
+              <Button variant="outline" className="border-primary/20 hover:bg-primary/10">
+                For Recruiters
+              </Button>
+            </Link>
             <Button variant="outline" className="border-primary/20 hover:bg-primary/10">
               Sign In
             </Button>
